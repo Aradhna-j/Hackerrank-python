@@ -16,7 +16,7 @@ I am consistently solving problems to improve my problem-solving skills and buil
 
 ## 📂 Folder Structure
 
-Day1/
+Day1
 
 Each folder contains solutions solved on that particular day.
 
@@ -26,12 +26,6 @@ Each folder contains solutions solved on that particular day.
 
 * Python 🐍
 * Git & GitHub
-
----
-
-## 📈 Progress Tracker
-
-* ✅ Day 1: Basics, Input/Output
 
 ---
 
@@ -45,8 +39,6 @@ Each folder contains solutions solved on that particular day.
 
 * Solve 100+ problems
 * Start LeetCode after 1 month
-
-
 ---
 
 ## 🙌 Connect with Me
