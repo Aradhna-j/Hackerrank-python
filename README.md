@@ -17,6 +17,7 @@ I am consistently solving problems to improve my problem-solving skills and buil
 ## 📂 Folder Structure
 
 Day1
+Day2
 
 Each folder contains solutions solved on that particular day.
 
